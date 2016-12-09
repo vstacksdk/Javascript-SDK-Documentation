@@ -20,8 +20,8 @@ Please review example (authentication, chat):
 
 	$(document).ready(function () {
 		//init SDK
-		var azAppID = "0de3cc7573a4549b0cdf4a1d492cb85e"; // you will get it after registered
-        var publicKey = 'MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAm+YvW1ETsfSlOwNlbM5v09/Jk9cVcOt0Q/JlWbcHOkl8wyTfzhrTzQtET8/bD/wN6jVdKDASI8VENn8ppHCg6YIv7EzmpWtWxUStkG0EacRZRDj/U3NduGu02Qx+TglHchBbDWiqY8uqLQb55FR0D+idm4JFvHc163Qpyle61QiBoImZc12GzbN7QAp1GXK3Rkm72Yni+7N2xDKXfEAJh/DhmEVL6KxXSFTIcH2374yrxRZfd+vLW974dvhUvWueXjoykn3vNqYQMQlDr5E5tXPgcRMhXFF4k+xg3GJew9Kk9lYmnrr9971o5S5ZLKjhA3BoZ/bq6hBDZ/zE+z0mKwIDAQAB';
+		var azAppID = "8f6b6d607b7b6f5ec45b367c1c97ca68"; // you will get it after registered
+        var publicKey = 'MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApxDkgYRgUr24soveQzHXE9GqQLi8Kv0KJtd35glW8UHry6Vy7o2fCGMNDTewKLrQmFLvAoMavIT+ZWKGG0yaARJQ93GduKmQ1C9UAgc3hLlHfW/YabwgENCkUdKtrnLZdx603wxxCfrmehP7LsqEp8BaHQJeTy4FLdCofTqNb8sR836Vk5CWoc11RoYsFJqV6htmxTgpxaHG3jJZOj15ran2rDSN7/yQc+nl8YIEeqmppYWupAe1/N3MkXwmTUPqgQUkXwPbYbuvHtLKLtOaHqSjQ88Vppjg0igZO6gTjL0vY8eumtePb61Ylv8JXzZ6Y+CXoE6x8/15rjG8jCMFvwIDAQAB';
         var VStackUserId = 'test';
         var fullname = 'Tester';
         var userCredentials = '';
